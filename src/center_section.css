@@ -1,0 +1,63 @@
+body, #left_panel
+{
+    font-family: starwars;
+}
+
+.fa-search
+{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+#right_panel {
+    color: white;
+    padding: 25px;
+    text-shadow: 2px 2px 2px #333;
+    font-style: inherit;
+    text-align: center;
+    padding-left: 30%;
+}
+
+#right_panel p {
+    text-align: justify;
+    font-size: 10px;
+}
+
+.list-group-item {
+    background-color: transparent !important;
+    border: 0px;
+    text-align: justify;
+    font-size: 25px;
+}
+
+.fa-check {
+    margin-right: 20px;
+}
+
+#left_panel {
+    background-color: white;
+    padding: 30px;
+    border-radius: 20px;    
+}
+
+#center_section {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.custom-select {
+    color: #6c757d;
+}
+
+#btnConsultarApi
+{
+    background-color: #ffe300;
+    color: black;
+}
+
+@font-face
+{
+    font-family: starwars;
+    src: url("./Starjedi.ttf");
+}
